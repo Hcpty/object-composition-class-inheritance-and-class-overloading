@@ -1,6 +1,8 @@
 # Readme
 A note about Inheritance and Overloading and Object Composition.
 
+### Inheritance and Overloading and Object Composition
+
 元素有两种组装方式，一种是继承和重载，另一种是对象组合。
 
 子类可以调用父类的方法，父类也可以通过Template Method模式调用子类的方法。
