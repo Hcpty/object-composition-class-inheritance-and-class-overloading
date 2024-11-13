@@ -1,7 +1,7 @@
 # Readme
 A note about Object Composition, Class Inheritance and Overloading.
 
-### Object Composition, Class Inheritance and Overloading
+## Object Composition, Class Inheritance and Overloading
 
 对象组合是一种组装方式，类继承和重载是另一种组装方式。
 
@@ -9,5 +9,5 @@ A note about Object Composition, Class Inheritance and Overloading.
 
 使用类继承和重载组装方式时，子类可以调用父类的方法，父类可以借助Template Method模式调用子类的方法。
 
-### Credits
+## Credits
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
