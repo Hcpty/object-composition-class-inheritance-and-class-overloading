@@ -1,5 +1,4 @@
-# Readme
-A note about Object Composition, Class Inheritance and Overloading.
+# Object Composition, Class Inheritance and Overloading
 
 ## Object Composition, Class Inheritance and Overloading
 
