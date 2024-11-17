@@ -2,7 +2,7 @@
 
 ## Object Composition, Class Inheritance and Overloading
 
-对象组合是一种组装方式，类继承和重载是另一种组装方式。
+对象组合是一种组装方式，类继承和重载是另外一种组装方式。
 
 使用对象组合组装方式时，组合对象可以调用被组合对象的方法，被组合的对象可以借助Visitor模式调用组合对象的方法。
 
