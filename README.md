@@ -8,5 +8,5 @@
 
 使用类继承和重载组装方式时，子类可以调用父类的方法，父类可以借助Template Method模式调用子类的方法。
 
-## Credits
+## References
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
