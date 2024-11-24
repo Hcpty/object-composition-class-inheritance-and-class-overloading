@@ -1,4 +1,4 @@
-# Object Composition, Class Inheritance and Overloading
+# Object composition, class inheritance and class overloading
 
 ## 对象组合、类继承和类重载
 
